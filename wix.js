@@ -56,7 +56,7 @@ const textOne = `March is Women’s History Month, and March 8th is a globally r
   achieving their goals, taking on leadership roles, and finding career
   success!`
 
-const title = ChairWomen
+const title = "Chairwomen"
 
 ///////
 const createImage = (url) => {
